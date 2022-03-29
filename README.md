@@ -16,7 +16,8 @@ After importing the data into Power Query, I ensured that there were no data err
 
 With the use of DAX formulas, I calculated the total salary and average salary of each region. This formula will iterate over any filtered set of data in the Pivot Table.
 
-![Project_A4](https://user-images.githubusercontent.com/101093568/157547742-3d35bce5-b117-405f-922f-27c4cd92aac1.png)
+![Project_A4](https://user-images.githubusercontent.com/101093568/160560927-4d15cfa4-f020-49ce-a3c5-ad5c165ed8fb.png)
+
 
 Then I made a dashboard showing a Pivot Table and Chart of the Salaries for each region. There is an added slicer to help filter the particular year of interest.
 
